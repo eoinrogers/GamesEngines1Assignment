@@ -21,6 +21,6 @@ When you first run the program you will see a menu of all the brainfuck programs
 
 The vehicle that moves down the side carries a read/write head on the top. You will see the head (called the wand in the source code) move to manipulate the values of bytes. 
 
-Inputs to the program should be stored in a file called input.txt: this will essentially be stdin for the program. Out puts will be displayed on the screen, and written to a file called output.txt. 
+Inputs to the program should be stored in a file called input.txt: this will essentially be stdin for the program. Outputs will be displayed on the screen, and written to a file called output.txt. 
 
 
